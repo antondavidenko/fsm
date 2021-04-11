@@ -1,4 +1,4 @@
-import { TransitionsLogicEngine } from '../src/fsm/transitions-logic-engine';
+import { TransitionsLogicEngine } from '../fsm/transitions-logic-engine';
 import { slotMachineDefinition } from './models/fsm/fsm.config';
 import { initAllStates } from './states';
 

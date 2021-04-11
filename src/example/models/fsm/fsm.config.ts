@@ -1,4 +1,4 @@
-import { SlotMachineDefinition } from '../../../src';
+import { SlotMachineDefinition } from '../../../';
 import { LevelStates, LevelEvents } from './fsm.enum';
 
 export const slotMachineDefinition: SlotMachineDefinition = {

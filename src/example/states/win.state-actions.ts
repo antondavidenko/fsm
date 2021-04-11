@@ -1,4 +1,4 @@
-import { StateActions } from '../../src/';
+import { StateActions } from '../../';
 
 export function getWinStateActions(): StateActions {
   return {

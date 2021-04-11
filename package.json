@@ -1,6 +1,6 @@
 {
   "name": "@antondavidenko/fsm",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Finite-state machine",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

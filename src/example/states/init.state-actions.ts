@@ -1,4 +1,4 @@
-import { StateActions } from '../../src/';
+import { StateActions } from '../../';
 import { IStateContext } from '../main';
 import { LevelEvents } from '../models/fsm/fsm.enum';
 

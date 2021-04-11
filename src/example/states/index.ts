@@ -1,4 +1,4 @@
-import { StateActions, TransitionsLogicEngine } from '../../src';
+import { StateActions, TransitionsLogicEngine } from '../../';
 import { IStateContext } from '../main';
 import { LevelStates } from '../models/fsm/fsm.enum';
 import { getGameplayStateActions } from './gameplay.state-actions';
